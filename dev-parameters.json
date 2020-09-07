@@ -1,23 +1,23 @@
 [
     {
       "ParameterKey": "KeyName",
-      "ParameterValue": "your-existing-key-name"
+      "ParameterValue": "goITDEV"
     }, 
     {
       "ParameterKey": "VpcId",
-      "ParameterValue": "vpc id of your existing vpc"
+      "ParameterValue": "vpc-beb97bd8"
     },
     {
       "ParameterKey": "Subnets",
-      "ParameterValue": "id of subnet-1"
+      "ParameterValue": "subnet-04a9c961"
     },
     {
       "ParameterKey": "DBUser",
-      "ParameterValue": "dbusername"
+      "ParameterValue": "admin"
     },
     {
       "ParameterKey": "DBPassword",
-      "ParameterValue": "dbpasswordname"
+      "ParameterValue": "Admin123"
     },
     {
       "ParameterKey": "DBAllocatedStorage",
@@ -29,7 +29,7 @@
     },
     {
       "ParameterKey": "DBName",
-      "ParameterValue": "dev-db-name"
+      "ParameterValue": "dev-db"
     },
     {
       "ParameterKey": "InstanceType",
